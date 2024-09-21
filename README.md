@@ -1,1 +1,1 @@
-O projeto è o inicio da criação de um site, os primeiros passos nesse processo, ele teria um foco em produtos da nova linha de parceria da Adidas, como base de criação e inspiração. Serve para ir aprendendo e aperfeiçoando em relação aos comandos.
+O projeto é o inicio da criação de um site, os primeiros passos nesse processo, ele teria um foco em produtos da nova linha de parceria da Adidas, como base de criação e inspiração. Serve para ir aprendendo e aperfeiçoando em relação aos comandos.
